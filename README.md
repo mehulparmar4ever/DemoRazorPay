@@ -1,20 +1,25 @@
-#Razorpay iOS Sample App
+# Razorpay iOS Sample App
+
 
 This repository demonstrates how to integrate Razorpay's iOS Framework. The app built from code in this repository can be found on the AppStore.
 
-#Features | Docs
+# Features | Docs
 
-[razorpay.com/mobile](razorpay.com/mobile)
 
-#Contributing
+https://razorpay.com/mobile/
+
+# Contributing
+
 
 See the CONTRIBUTING document. Thank you, contributors!
 
-#License
+# License
+
 
 Razorpay iOS Sample App is Copyright (c) 2016 Razorpay Software Pvt. Ltd. It is free software, and may be redistributed under the terms specified in the LICENSE file.
 
-#About
+# About
+
 
 razorpay
 
