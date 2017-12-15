@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  DemoRazorPay
 //
-//  Created by Sooryen on 12/14/17.
-//  Copyright © 2017 Sooryen. All rights reserved.
+//  Created by Company on 12/14/17.
+//  Copyright © 2017 Company. All rights reserved.
 //
 
 import UIKit
