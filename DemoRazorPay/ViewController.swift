@@ -9,7 +9,7 @@
 import UIKit
 import Razorpay
 
-let KEY_ID = "rzp_test_hcN5TrrqAtN5gJ"; // @"rzp_test_1DP5mmOlF5G5ag";
+let KEY_ID = "***************";
 let SUCCESS_TITLE = "Yay!";
 let SUCCESS_MESSAGE = "Your payment was successful.";
 let FAILURE_TITLE = "Uh-Oh!";
